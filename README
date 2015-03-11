@@ -3,5 +3,5 @@ excuse to get better with the Go programming language.
 
 To install this tool do the following:
 
-go install github.com/DrItanium/fakku-api-changes
+go get github.com/DrItanium/fakku-api-changes
 
